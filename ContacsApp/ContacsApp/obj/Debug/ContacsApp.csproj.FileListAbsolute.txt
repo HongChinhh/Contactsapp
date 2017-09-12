@@ -1,0 +1,6 @@
+D:\Github\Contactsapp\ContacsApp\ContacsApp\bin\Debug\ContacsApp.exe.config
+D:\Github\Contactsapp\ContacsApp\ContacsApp\bin\Debug\ContacsApp.exe
+D:\Github\Contactsapp\ContacsApp\ContacsApp\bin\Debug\ContacsApp.pdb
+D:\Github\Contactsapp\ContacsApp\ContacsApp\obj\Debug\ContacsApp.csprojResolveAssemblyReference.cache
+D:\Github\Contactsapp\ContacsApp\ContacsApp\obj\Debug\ContacsApp.exe
+D:\Github\Contactsapp\ContacsApp\ContacsApp\obj\Debug\ContacsApp.pdb
